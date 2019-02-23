@@ -1,5 +1,5 @@
 body {
-     font: 400 15px Lato, sans-serif;
+     font: 400 18px Lato, sans-serif;
      line-height: 1.8;
      color: #818181;
  }
@@ -7,21 +7,22 @@ body {
  h2 {
      font-size: 24px;
      text-transform: uppercase;
-     color: #303030;
+     color: #3AAFA9;
      font-weight: 600;
      margin-bottom: 30px;
  }
  h4 {
      font-size: 19px;
      line-height: 1.375em;
-     color: #303030;
+     color: #FEFFFF;
      font-weight: 400;
      margin-bottom: 30px;
  }
 
 .typewrite{
-  font-size: 34px;
-  color:#D84315;
+  font-size: 38px;
+  font-family: Pacifico;
+  color:#FEFFFF;
 }
  .cv{color:#D84315;
   }
@@ -35,14 +36,18 @@ body {
     color:  #D84315;
   }
 
+  .white{
+    color:#17252A
+  }
+
   .cv:hover{
-    background-color: black;
+    background-color: #f6f6f6;
     border: 2px solid #D84315;
   }
 
  .jumbotron {
-     background-color: #000000;
-     color: #D84315;
+     background-color: #3AAFA9;
+     color: #17252a;
      padding: 100px 25px;
      font-family: Montserrat, sans-serif;
  }
@@ -50,7 +55,7 @@ body {
      padding: 60px 50px;
  }
  .bg-grey {
-     background-color: #f6f6f6;
+     background-color: #17252A;
  }
  #address{
    list-style-type: none;
@@ -69,10 +74,10 @@ body {
    padding-right:0.5vw;
  }
  .mail{
-   color:#D84315;
+   color:#18252a;
  }
  .mail:hover{
-   color:#D84315;
+   color:#f6f6f6;
  }
 
  .fa {
@@ -86,7 +91,7 @@ body {
 }
 .fa:hover {
     opacity: 0.7;
-    color:black;
+    color:#3AAFA9;
     text-decoration: none;
 }
  .logo-small{
@@ -96,6 +101,10 @@ body {
  .logo {
      color: #D84315;
      font-size: 200px;
+ }
+ .logo-work {
+   color:#18252a;
+   font-size: 200px;
  }
  .thumbnail {
      padding: 0 0 15px 0;
