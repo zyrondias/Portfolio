@@ -42,7 +42,7 @@ body {
 
   .cv:hover{
     background-color: #f6f6f6;
-    border: 2px solid #D84315;
+    border: 0.5px solid #D84315;
   }
 
  .jumbotron {
